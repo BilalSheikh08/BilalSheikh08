@@ -17,6 +17,6 @@ This repository showcases my animation projects, experiments, and tools. Whether
 <br>
 Contact Me 
 <br>
-Email-roundedcrux08@gmail.com
+Email:roundedcrux08@gmail.com
 
 
